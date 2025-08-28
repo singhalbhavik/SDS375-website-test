@@ -1,5 +1,5 @@
 ---
-title: "Index.RMD"
+title: "index"
 author: "Bhavik Singhal"
 date: "2025-08-28"
 output: html_document
